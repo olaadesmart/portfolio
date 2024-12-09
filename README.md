@@ -27,8 +27,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 ![WhatsApp Image 2024-12-07 at 11 04 33_ba6de5c4](https://github.com/user-attachments/assets/922dd003-fc1b-4085-8c0c-eec88126725e)
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
+[Read More](assest/WhatsApp Image 2024-12-03 at 10.59.26_5328b48b.jpg)
 The company's sales volume andgrowth rate in 2020 were higher compared to industry averages
 manage resources better by matching demand with prduct visibility.
 with the increasing demand, we have identified opportunities and proposed strategies for growth and expansion
