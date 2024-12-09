@@ -21,19 +21,21 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](assest/WhatsApp Image 2024-12-03 at 11.46.22_6d21886a.jpg)
-
+**Sales performance Analysis for beyond cars Ltd .**
+<!--!{image}(assets/cars2.jpeg-->
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
+![WhatsApp Image 2024-12-07 at 11 04 33_ba6de5c4](https://github.com/user-attachments/assets/922dd003-fc1b-4085-8c0c-eec88126725e)
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+The company's sales volume andgrowth rate in 2020 were higher compared to industry averages
+manage resources better by matching demand with prduct visibility.
+with the increasing demand, we have identified opportunities and proposed strategies for growth and expansion
+
 
 ![image](assets/agro.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
